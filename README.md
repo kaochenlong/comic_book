@@ -1,24 +1,6 @@
-# README
+# Rails ActiveRecord Relationship Practice
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+1. run `bundle install` to install all gems needed.
+2. run `rails db:migrate` to build all tables.
+3. run `rails db:seed` to build data
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
