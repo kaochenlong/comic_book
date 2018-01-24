@@ -15,6 +15,7 @@ module ComicBook
       g.stylesheets false
       g.javascripts false
       g.helper false
+      g.factory_bot false
       g.test_framework :rspec, fixture: false
     end
 
